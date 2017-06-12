@@ -1,7 +1,8 @@
    import java.awt.image.BufferedImage;
    import javax.imageio.ImageIO;
    import java.io.*;
-    public class MachineGun extends Weapon
+
+ public class MachineGun extends Weapon
    {
        public MachineGun() throws IOException
       {
