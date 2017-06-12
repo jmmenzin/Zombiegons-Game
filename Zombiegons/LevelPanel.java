@@ -17,7 +17,7 @@
    import java.awt.event.KeyListener;
 
 
-   public class LevelPanel extends JPanel implements MouseMotionListener
+  public class LevelPanel extends JPanel implements MouseMotionListener
    {
       private static final int FRAMEx = 800;
       private static final int FRAMEy = 600;
