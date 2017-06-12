@@ -1,4 +1,4 @@
-    public class SquareZombie extends Character
+public class SquareZombie extends Character
    {
       public int health = 100;
       public int speed = 3;
