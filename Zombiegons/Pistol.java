@@ -2,7 +2,7 @@
    import javax.imageio.ImageIO;
    import java.io.*;
 
-    public class Pistol extends Weapon
+public class Pistol extends Weapon
    {
        public Pistol()
       {
