@@ -13,8 +13,8 @@
    import java.awt.GridLayout;
    import java.awt.geom.AffineTransform;
 
-
-   public class Shot 
+//bullet that is released when the player implements the shot method
+public class Shot 
    { 
    // variables 
       public int x_pos; 
