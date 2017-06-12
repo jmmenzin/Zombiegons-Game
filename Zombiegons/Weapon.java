@@ -1,5 +1,6 @@
    import java.awt.image.BufferedImage;
-    public class Weapon
+
+public class Weapon
    {
       public int ammo;
       public int damage;
