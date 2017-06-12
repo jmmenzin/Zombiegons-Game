@@ -1,5 +1,5 @@
    import javax.swing.JFrame;
-   public class LevelPanelDriver
+public class LevelPanelDriver
    {
       public static void main(String[] args)
       { 
