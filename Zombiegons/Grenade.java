@@ -1,7 +1,7 @@
    import java.awt.image.BufferedImage;
    import javax.imageio.ImageIO;
    import java.io.*;
-    public class Grenade extends Weapon
+   public class Grenade extends Weapon
    {
        public Grenade() throws IOException
       {
