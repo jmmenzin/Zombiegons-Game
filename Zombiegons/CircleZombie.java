@@ -1,4 +1,4 @@
-    public class CircleZombie extends Character
+   public class CircleZombie extends Character
    {
       public int health = 50;
       public int speed = 5;
