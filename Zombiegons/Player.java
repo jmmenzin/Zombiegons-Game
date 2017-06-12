@@ -12,8 +12,7 @@
    import java.awt.geom.AffineTransform;
 
 
-
-   public class Player extends Character
+public class Player extends Character
    {
       public int health = 100;
       public int speed = 6;
