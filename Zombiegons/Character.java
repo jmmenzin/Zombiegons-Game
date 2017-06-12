@@ -1,4 +1,4 @@
-    abstract class Character
+   abstract class Character
    {     
        abstract void moveTo(int newX, int newY);
        abstract int getX();
